@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript</title>
+</head>
+<body>
+    <br>
+    <h1>notas / Média </h1>
+    <p id="aluno">Aluno(a) ;</p>
+    <p id="nomes"></p>
+
+    <script>
+        //declarando as variaveis e obtendo os seu valores 
+        var nome = prompt("entre com seu nome: ");
+        var msg
+        var nota1 = parseInt(prompt("entre com sua primeira nota: "));
+        if (nota1 < 0 || nota1 > 10) {
+            alert("digite um valor valido");
+        nota1 = parseInt(prompt("entre com sua primeira nota: "));
+        }
+        var nota2 = parseInt(prompt("entre com sua segunda nota; "));
+        if (nota2 < 0 || nota2 > 10){
+            alert("digite um valor valido");
+        nota2 = parseInt(prompt("entre com sua segunda nota: "));
+        }
+        var nota3 = parseInt(prompt("entre com sua terceira nota; "));
+        if (nota3 < 0 || nota3 > 10){
+            alert("digite um valor valido");
+        nota3 = parseInt(prompt("entre com sua terceira nota: "));
+        }
+        var nota4 = parseInt(prompt("entre com sua quarta nota; "));
+        if (nota4 < 0 || nota4 > 10){
+            alert("digite um valor valido");
+        nota4 = parseInt(prompt("entre com sua quarta nota: "));
+        }
+        var media = (nota1 + nota2 + nota3 + nota4) / 4 ;
+
+        if (media >= 7.0){
+            alert("sua nota é: " + " "+ media + " " + "-" + "voce foi aprovado !!!");
+            msg = (" " + nome + "," + " " + "a sua media é " + " " + media + " " + "- " + "voce foi aprovado");
+            document.write(msg);
+        } else if (media < 5.0) {
+            alert("sua nota é: " + " "+ media + " " + "-" + "voce foi reprovado !!!");
+            msg = (" " + nome + "," + " " + "a sua media é " + " " + media + " " + "- " + "voce foi reprovado");
+            document.write("sua media é : " + " " + media + " " + "- " + "voce foi reprovado");
+        } else if (media  >= 5.0 && media < 7.0){
+            alert("sua nota é: " + " "+ media + " " + "-" + "voce esta em recuperação !!!");
+            msg = (" " + nome + "," + " " + "a sua media é " + " " + media + " " + "- " + "voce esta em recuperação");
+            document.write("sua media é : " + " " + media + " " + "- " + "voce esta em recuperação");
+        } else {
+            alert("entre com um valor valido :");
+            document.write("os valores foram invalidos :");
+        }
+
+    </script>
+</body>
+</html>
