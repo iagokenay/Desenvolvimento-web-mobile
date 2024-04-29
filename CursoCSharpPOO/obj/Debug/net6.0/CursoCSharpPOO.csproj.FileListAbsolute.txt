@@ -1,0 +1,14 @@
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\CursoCSharpPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\CursoCSharpPOO.AssemblyInfoInputs.cache
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\CursoCSharpPOO.AssemblyInfo.cs
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\CursoCSharpPOO.csproj.CoreCompileInputs.cache
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\bin\Debug\net6.0\CursoCSharpPOO.exe
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\bin\Debug\net6.0\CursoCSharpPOO.deps.json
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\bin\Debug\net6.0\CursoCSharpPOO.runtimeconfig.json
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\bin\Debug\net6.0\CursoCSharpPOO.dll
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\bin\Debug\net6.0\CursoCSharpPOO.pdb
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\CursoCSharpPOO.dll
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\refint\CursoCSharpPOO.dll
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\CursoCSharpPOO.pdb
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\CursoCSharpPOO.genruntimeconfig.cache
+C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\obj\Debug\net6.0\ref\CursoCSharpPOO.dll

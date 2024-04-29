@@ -1,0 +1,6 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: CursoCSharpPOO, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>CursoCSharpPOO -> C:\Users\EFG\Desktop\iagokenay\CursoCSharpPOO\bin\Debug\net6.0\CursoCSharpPOO.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 21:38 e levou 00,365 segundos ==========
