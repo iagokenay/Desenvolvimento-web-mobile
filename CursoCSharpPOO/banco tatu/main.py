@@ -1,6 +1,9 @@
 from bancotatu import cliente
 from contas import conta
 
+
+
+
 pedro = cliente('pedrinho noiado', 9090190)
 joao = cliente('joao do gas', 40028922)
 maria = cliente('maria quenga', 15926357 )
