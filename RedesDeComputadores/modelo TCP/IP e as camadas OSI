@@ -1,0 +1,15 @@
+O Modelo OSI (Open Systems Interconnection) é um modelo conceitual usado para entender e descrever as funcionalidades e interações entre diferentes protocolos de rede em um sistema de comunicação de dados. Ele possui sete camadas que representam etapas no processo de envio de dados. Aqui estão as camadas:
+
+Camada Física: Lida com a transmissão física dos dados, como cabos e sinais elétricos.
+Camada de Enlace ou Ligação: Gerencia a comunicação entre dispositivos adjacentes na rede.
+Camada de Rede: Roteia pacotes entre diferentes redes e controla o fluxo de dados.
+Camada de Transporte: Garante a entrega confiável dos dados, dividindo-os em segmentos.
+Camada de Sessão: Estabelece, gerencia e encerra conexões entre aplicativos.
+Camada de Apresentação: Lida com a formatação e conversão dos dados para que sejam compreensíveis.
+Camada de Aplicação: Fornece serviços de rede aos aplicativos.
+Por outro lado, o Modelo TCP/IP é mais simples, com quatro camadas:
+
+Camada de Aplicação: Equivalente às camadas de Apresentação e Aplicação do OSI.
+Camada de Transporte: Similar à camada de Transporte do OSI.
+Camada de Rede: Correspondente à camada de Rede do OSI.
+Camada de Interface de Rede: Equivalente à camada de Enlace do OSI.
