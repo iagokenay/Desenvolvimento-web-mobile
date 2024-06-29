@@ -1,6 +1,6 @@
 PROBLEMA:2602 - Select Básico
 LINGUAGEM:PostgreSQL (psql 9.4.19)
-
+---------------------------------------
 SELECT name
 FROM customers WHERE state = 'RS'
 
