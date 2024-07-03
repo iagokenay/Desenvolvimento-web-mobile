@@ -9,7 +9,7 @@ LINGUAGEM: PostgreSQL (psql 9.4.19)
 --------------------------------------
 SELECT name,street
 FROM customers WHERE city = 'Porto Alegre'
-
+---------------------------------------------
 PROBLEMA:2604 - Menores que 10 ou Maiores que 100
 LÍNGUA:PostgreSQL (psql 9.4.19)
 
