@@ -5,3 +5,4 @@ for par in range(0,51,2):
     print(par, end='--')
     sleep(0.5)
 print('numeros pares ate 50....')
+-------------------------------------
